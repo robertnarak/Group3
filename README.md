@@ -1,2 +1,2 @@
 # Group3
-Pipeline for group MSBT-2022 group 4
+Pipeline building for MSBT-2022 group 3
